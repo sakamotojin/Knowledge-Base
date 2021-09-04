@@ -1,5 +1,20 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [Hello , There !!!](README.md)
+
+## Tech Related
+
+* [Untitled](tech-related/untitled.md)
+
+## Numbers
+
+* [Untitled](numbers/untitled.md)
+
+## Random Shit
+
+* [Untitled](random-shit/untitled.md)
+
+## Physics
+
+* [Untitled](physics/untitled.md)
 

@@ -1,23 +1,26 @@
-# Initial page
+---
+description: My Personal Reference .
+---
 
-## Getting Super Powers
+# Hello , There !!!
 
-Becoming a super hero is a fairly straight forward process:
+![](.gitbook/assets/img_20181218_132926.jpg)
 
-```
-$ give me super-powers
-```
+**Young Software Engineer . Exploring The Industry . Learning**
+
+**Modeling the World Around Us With Equations And Code**
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world:
+**“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”**
+
+**- It starts with a step 😊**
 
 {% code title="hello.sh" %}
 ```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+echo 'Let''s connect, explore and enjoy! Open to anything under the sky.'
 ```
 {% endcode %}
 
