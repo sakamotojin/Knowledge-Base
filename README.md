@@ -1,17 +1,17 @@
 ---
-description: My Personal Reference .
+description: Hope You Will Enjoy The Journey !!!
 ---
 
 # Hello , There !!!
 
 ![](.gitbook/assets/img_20181218_132926.jpg)
 
-**Young Software Engineer . Exploring The Industry . Learning**
+                           **Young Software Engineer . Exploring The Industry . Learning**
 
-**Modeling the World Around Us With Equations And Code**
+                               **Modeling the World Around Us With Equations And Code**
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="warning" %}
+##  Kaa Mee Haa Mee Haaa !!!
 {% endhint %}
 
 **“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”**

@@ -2,9 +2,10 @@
 
 * [Hello , There !!!](README.md)
 
-## Tech Related
+## JavaScript <a id="tech-related"></a>
 
-* [Untitled](tech-related/untitled.md)
+* [Untitled](tech-related/untitled-3.md)
+* [Untitled](tech-related/untitled-2.md)
 
 ## Numbers
 
@@ -16,5 +17,22 @@
 
 ## Physics
 
-* [Untitled](physics/untitled.md)
+* [Best YouTube Channels](physics/test.md)
+
+## Python
+
+* [Untitled](python/untitled.md)
+
+## JAVA
+
+* [Untitled](java/untitled.md)
+
+## NODE JS
+
+* [Parsing HTML DOM](node-js/parsing-html-dom.md)
+* [Make HTTP Request](node-js/make-http-request.md)
+
+## SQL
+
+* [Untitled](sql/untitled.md)
 
