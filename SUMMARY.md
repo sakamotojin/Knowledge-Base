@@ -43,3 +43,8 @@
 ## Machine Learning
 
 * [Page 2](machine-learning/page-2.md)
+
+## Productivity
+
+* [Git](productivity/git.md)
+* [ssh](productivity/ssh.md)
