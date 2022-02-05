@@ -39,7 +39,7 @@ function parse_html(data) {
     let rank = 0 ;
     let document = new JSDOM(String(data)).window.document;
     let movie_table = Array.from(document.getElementsByTagName('tr'));
-   
+
     movie_table.forEach((ele,err) => {
 
         let movie_info = {};
@@ -51,7 +51,7 @@ function parse_html(data) {
                     movie_info["year"] = cell.children[1].textContent;
                     let people = cell.children[0].getAttribute("title").split(',');
                     movie_info["people"] = people;
-                
+
                 }
                 if (cell.matches('.imdbRating')) {
                     movie_info["rating"] = cell.children[0].textContent;
@@ -67,7 +67,4 @@ function parse_html(data) {
         console.log(ele);
     });
 };
-
-
 ```
-

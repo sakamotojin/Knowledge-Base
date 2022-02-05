@@ -9,18 +9,19 @@
 * [Read SQLite File](node-js/read-sqlite-file.md)
 * [Remove Directory Recursively](node-js/remove-directory-recursively.md)
 
-## JavaScript <a id="tech-related"></a>
+## JavaScript <a href="#tech-related" id="tech-related"></a>
 
-* [Untitled](tech-related/untitled-3.md)
-* [Untitled](tech-related/untitled-2.md)
+* [Event Loop In JavaScript](tech-related/untitled-3.md)
 
 ## Numbers
 
 * [Untitled](numbers/untitled.md)
 
-## Random Shit
+## Random  <a href="#random-shit" id="random-shit"></a>
 
-* [Untitled](random-shit/untitled.md)
+* [Google File System](random-shit/untitled.md)
+* [Concurrency vs Parallelism](random-shit/concurrency-vs-parallelism.md)
+* [Spark](random-shit/spark.md)
 
 ## Physics
 
@@ -28,13 +29,17 @@
 
 ## Python
 
-* [Untitled](python/untitled.md)
+* [Python Memory Model](python/untitled.md)
 
 ## JAVA
 
-* [Untitled](java/untitled.md)
+* [Java Memory Model](java/untitled.md)
 
 ## SQL
 
 * [Untitled](sql/untitled.md)
+* [Page 1](sql/page-1.md)
 
+## Machine Learning
+
+* [Page 2](machine-learning/page-2.md)

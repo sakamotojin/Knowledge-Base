@@ -1,18 +1,18 @@
 # Make HTTP Request
 
-#### Import Libraries
+## Import Libraries
 
 ```javascript
 const https = require('https');
 ```
 
-#### Make Request
+## Make Request
 
 ```javascript
 var data = "";
 
 var req = https.get('https://www.imdb.com/chart/top/', function (res) {
-    
+
     res.setEncoding('utf8');
     res.on('data', function (chunk) {
         data += chunk;
@@ -29,6 +29,3 @@ req.on('error' , (err)=>{
     console.log(err.message);
 });
 ```
-
-
-
