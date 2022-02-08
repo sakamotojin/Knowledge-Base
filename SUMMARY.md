@@ -48,3 +48,9 @@
 
 * [Git](productivity/git.md)
 * [ssh](productivity/ssh.md)
+
+***
+
+* [Blogs](blogs/README.md)
+  * [What happens when you type a URL into your browser?](blogs/what-happens-when-you-type-a-url-into-your-browser.md)
+  * [How Browsers Work ?](blogs/how-browsers-work.md)
