@@ -37,6 +37,7 @@
 
 * [Python Memory Model](python/untitled.md)
 * [Multithreading With LightWeight Threads](python/multithreading-with-lightweight-threads.md)
+* [Logger](python/logger.md)
 
 ## JAVA
 
