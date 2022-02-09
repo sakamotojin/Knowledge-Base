@@ -32,6 +32,7 @@
 * [Google File System](random-shit/untitled.md)
 * [Concurrency vs Parallelism](random-shit/concurrency-vs-parallelism.md)
 * [Spark](random-shit/spark.md)
+* [Apache Kafka\[WIP\]](random-shit/apache-kafka-wip.md)
 
 ## Python
 
