@@ -61,8 +61,6 @@ According to [RFC 1122 4.2.3.6](http://www.freesoft.org/CIE/RFC/1122/114.htm), r
 
 > Implementors MAY include "keep-alives" in their TCP implementations, although this practice is not universally accepted. If keep-alives are included, the application MUST be able to turn them on or off for each TCP connection, and they MUST default to off.
 
-> ...
-
 > It is extremely important to remember that ACK segments that contain no data are not reliably transmitted by TCP.
 
 The reasoning being that Keep-Alive packets contain no data and are not strictly necessary and risk clogging up the tubes of the interwebs if overused.

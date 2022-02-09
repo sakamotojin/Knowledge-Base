@@ -23,10 +23,6 @@
 * [Concurrency vs Parallelism](random-shit/concurrency-vs-parallelism.md)
 * [Spark](random-shit/spark.md)
 
-## Physics
-
-* [Best YouTube Channels](physics/test.md)
-
 ## Python
 
 * [Python Memory Model](python/untitled.md)
@@ -55,3 +51,7 @@
   * [What happens when you type a URL into your browser?](blogs/what-happens-when-you-type-a-url-into-your-browser.md)
   * [How Browsers Work ?](blogs/how-browsers-work.md)
   * [HTTP Keep Alive Vs TCP keep Alive](blogs/http-keep-alive-vs-tcp-keep-alive.md)
+
+## Hacks
+
+* [Good Youtube Channels](hacks/good-youtube-channels.md)
