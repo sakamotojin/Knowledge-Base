@@ -1,6 +1,6 @@
 # Multithreading With LightWeight Threads
 
-```
+```python
 import json
 import urllib.request
 from urllib.parse import urlparse
@@ -55,3 +55,6 @@ try:
 except KeyboardInterrupt:
     sys.exit(1)
 ```
+
+**Queue** - A synchronized queue class
+
