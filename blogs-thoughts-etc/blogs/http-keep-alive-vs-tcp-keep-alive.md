@@ -15,7 +15,7 @@
 * TCP keep-alive is a periodic check to make sure that the connection is still up and functioning. It's often used to assure that a NAT box (e.g., a DSL router) doesn't "forget" the mapping between an internal and external ip/port.
 * This packet is often referred to as a "Keep-Alive" packet, but within the TCP specification it is just a regular `ACK` packet. Applications like Wireshark are able to label it as a "Keep-Alive" packet by meta-analysis of the sequence and acknowledgement numbers it contains in reference to the preceding communications on the socket.
 
-![HTTP Keep-Alive](../.gitbook/assets/4zokr.jpeg)
+![HTTP Keep-Alive](../../.gitbook/assets/4zokr.jpeg)
 
 ## &#x20;TCP Keep-Alive
 

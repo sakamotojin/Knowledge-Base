@@ -62,4 +62,4 @@ The request might also ask to load more resources, such as images, stylesheets, 
 
 More and more, web applications these days simply load a bare page containing a JavaScript bundle, which, once executed, fetches content from APIs. The JavaScript application then manipulates the DOM to add the content it loaded.
 
-![](../.gitbook/assets/1644338439288.jpeg)
+![](../../.gitbook/assets/1644338439288.jpeg)

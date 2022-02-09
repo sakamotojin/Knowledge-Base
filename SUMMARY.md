@@ -2,6 +2,16 @@
 
 * [Hello , There !!!](README.md)
 
+## Blogs , Thoughts , Etc
+
+* [Blogs](blogs-thoughts-etc/blogs/README.md)
+  * [What happens when you type a URL into your browser?](blogs-thoughts-etc/blogs/what-happens-when-you-type-a-url-into-your-browser.md)
+  * [HTTP Keep Alive Vs TCP keep Alive](blogs-thoughts-etc/blogs/http-keep-alive-vs-tcp-keep-alive.md)
+  * [How Browsers Work ?](blogs-thoughts-etc/blogs/how-browsers-work.md)
+* [Book Summaries](blogs-thoughts-etc/book-summaries/README.md)
+  * [12 Rules for Life](blogs-thoughts-etc/book-summaries/12-rules-for-life.md)
+* [Random Thoughts](blogs-thoughts-etc/random-thoughts.md)
+
 ## NODE JS
 
 * [Parsing HTML DOM](node-js/parsing-html-dom.md)
@@ -44,13 +54,6 @@
 
 * [Git](productivity/git.md)
 * [ssh](productivity/ssh.md)
-
-***
-
-* [Blogs](blogs/README.md)
-  * [What happens when you type a URL into your browser?](blogs/what-happens-when-you-type-a-url-into-your-browser.md)
-  * [How Browsers Work ?](blogs/how-browsers-work.md)
-  * [HTTP Keep Alive Vs TCP keep Alive](blogs/http-keep-alive-vs-tcp-keep-alive.md)
 
 ## Hacks
 
