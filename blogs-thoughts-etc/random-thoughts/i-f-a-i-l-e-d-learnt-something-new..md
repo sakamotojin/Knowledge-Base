@@ -1,6 +1,6 @@
 # I ̶F̶̶a̶̶i̶̶l̶̶e̶̶d̶ Learnt Something New.
 
-_**“Mistakes Are The Portals Of Discovery.”**_
+![](../../.gitbook/assets/20170823\_wednesday\_quote.jpg)
 
 We are obsessed with grades because we are obsessed with data , and yet grading takes away all the fun from failing and a huge part of education is about failing.
 
