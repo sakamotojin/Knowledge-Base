@@ -11,7 +11,9 @@
   * [Change Data Capture @ MySQL](blogs-thoughts-etc/blogs/change-data-capture-mysql.md)
 * [Book Summaries](blogs-thoughts-etc/book-summaries/README.md)
   * [12 Rules for Life](blogs-thoughts-etc/book-summaries/12-rules-for-life.md)
-* [Random Thoughts](blogs-thoughts-etc/random-thoughts.md)
+* [Random Thoughts](blogs-thoughts-etc/random-thoughts/README.md)
+  * [Being On The Right Side Of The “Zero”](blogs-thoughts-etc/random-thoughts/being-on-the-right-side-of-the-zero.md)
+  * [I ̶F̶̶a̶̶i̶̶l̶̶e̶̶d̶ Learnt Something New.](blogs-thoughts-etc/random-thoughts/i-f-a-i-l-e-d-learnt-something-new..md)
 
 ## NODE JS
 
