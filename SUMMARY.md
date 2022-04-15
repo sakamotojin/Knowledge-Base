@@ -9,6 +9,7 @@
   * [HTTP Keep Alive Vs TCP keep Alive](blogs-thoughts-etc/blogs/http-keep-alive-vs-tcp-keep-alive.md)
   * [How Browsers Work ?](blogs-thoughts-etc/blogs/how-browsers-work.md)
   * [Change Data Capture @ MySQL](blogs-thoughts-etc/blogs/change-data-capture-mysql.md)
+* [Batch Vs Stream Processing](blogs-thoughts-etc/batch-vs-stream-processing.md)
 * [Book Summaries](blogs-thoughts-etc/book-summaries/README.md)
   * [12 Rules for Life](blogs-thoughts-etc/book-summaries/12-rules-for-life.md)
 * [Random Thoughts](blogs-thoughts-etc/random-thoughts/README.md)
